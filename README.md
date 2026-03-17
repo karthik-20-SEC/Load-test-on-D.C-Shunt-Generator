@@ -1,5 +1,9 @@
 # Load-test-on-D.C-Shunt-Generator
 
+Name: Karthik T
+
+Reg no: 212222210007
+
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
@@ -41,3 +45,6 @@ Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
 Result:
+![WhatsApp Image 2026-03-17 at 2 35 00 PM](https://github.com/user-attachments/assets/fc452e51-1c4a-45d6-8659-ecf0c6f8c131)
+
+
