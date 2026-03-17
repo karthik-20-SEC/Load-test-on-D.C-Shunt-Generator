@@ -19,6 +19,7 @@ Load test
 125 % of rated current (full load current)
 
 <img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
+
 Precautions
 1. Motor side field rheostat should be kept at minimum resistance position.
 2. Generator side field rheostat should be kept at maximum resistance position.
